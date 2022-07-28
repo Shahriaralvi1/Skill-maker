@@ -10,3 +10,24 @@ body {
 .tex {
     text-decoration: none;
 }
+
+.navs {
+    position: sticky;
+}
+
+.cov {
+    filter: brightness(30%);
+}
+
+.fons {
+    color: rgb(241, 241, 241);
+    text-align: start;
+    padding-right: 30%;
+    padding-left: 20%;
+    padding-bottom: 20%;
+}
+
+.fone {
+    color: rgb(190, 190, 190);
+
+}
